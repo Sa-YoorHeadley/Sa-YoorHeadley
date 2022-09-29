@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Sa-YoorHeadley
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hello World, 
 
-<!---
-Sa-YoorHeadley/Sa-YoorHeadley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Sa-Yoor Headley and I am a Web Developer with a passion for problem solving and creative solutions. I enjoy learning new languages, frameworks and concepts, UI/UX design and coding using React.
+
+[![Sa-Yoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sa-YoorHeadley&theme=radical)](https://github.com/Sa-YoorHeadley/github-readme-stats)
