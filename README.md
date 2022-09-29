@@ -3,25 +3,11 @@
 
 > I am a Web Developer with a passion for problem solving and creative solutions. I enjoy learning new languages, frameworks, and concepts, UI/UX design, and coding using React.
 
-## 🧰 Skills: 
-
-#### Frontend
-- ⚛ React
-- 💻 HTML, CSS/SCSS, JavaScript
-- 🌬 Tailwind CSS
-
-#### Backend  
-- ⚙ Node.js, Express
-  
-#### Database
+## 🧰 Tech Stack: 
+- 💻 React | HTML | CSS/SCSS | JavaScript | Tailwind CSS 
+- ⚙ Node.js | Express
 - 🗄 SQL
-  
-#### Version Control
-- 👨‍💻 Git and Git Workflow
-  
-#### Other
-- 🔀 C, Python, Pascal
-
-## Stats
+- 👨‍💻 Git
+- 🖥 Figma
 
 [![Sa-Yoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sa-YoorHeadley&theme=radical)](https://github.com/Sa-YoorHeadley/github-readme-stats)
