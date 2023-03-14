@@ -6,7 +6,7 @@
 ## 🧰 Tech Stack: 
 - 💻 React | HTML | CSS/SCSS | JavaScript | Tailwind CSS 
 - ⚙ Node.js | Express
-- 🗄 SQL
+- 🗄 SQL, MongoDB
 - 👨‍💻 Git
 - 🖥 Figma
 
